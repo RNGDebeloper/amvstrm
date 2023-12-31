@@ -118,10 +118,10 @@ useHead({
           <p>
             <strong>Website</strong> refers to Watch Anime, accessible from
             <a
-              href="https://amvstr.ml"
+              href="https://watch-anime.fun"
               rel="external nofollow noopener"
               target="_blank"
-              >https://amvstr.ml</a
+              >https://Watch-Anime.fun</a
             >
           </p>
         </li>
