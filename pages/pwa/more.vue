@@ -33,7 +33,7 @@
       <v-list-item
         title="Help"
         target="blank"
-        href="https://docs.amvstr.ml/help"
+        href="https://t.me/crunchyroll_co"
       >
         <template #append>
           <v-icon icon="mdi-help" />
@@ -42,7 +42,7 @@
       <v-list-item
         title="Telegram"
         target="blank"
-        href="https://t.me/cruchyroll_co"
+        href="https://t.me/crunchyroll_co"
       >
         <template #append>
           <v-icon icon="mdi-telegram" />
