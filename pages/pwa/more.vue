@@ -40,12 +40,12 @@
         </template>
       </v-list-item>
       <v-list-item
-        title="Github"
+        title="Telegram"
         target="blank"
-        href="https://github.com/amvstrm/amvstrm"
+        href="https://t.me/cruchyroll_co"
       >
         <template #append>
-          <v-icon icon="mdi-github" />
+          <v-icon icon="mdi-telegram" />
         </template>
       </v-list-item>
     </v-list>
