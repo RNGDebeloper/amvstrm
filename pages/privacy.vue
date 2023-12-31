@@ -1,11 +1,11 @@
 <script setup>
 useSeoMeta({
   ogTitle: 'Privacy Policy',
-  ogDescription: 'Privacy policy for amvstrm',
+  ogDescription: 'Privacy policy for Watch Anime',
   ogImage: 'logo.png',
   ogUrl: '[og:url]',
   twitterTitle: 'Home',
-  twitterDescription: 'Privacy policy for amvstrm',
+  twitterDescription: 'Privacy policy for Watch Anime',
   twitterImage: 'logo.png',
   twitterCard: 'summary'
 })
@@ -24,7 +24,7 @@ useHead({
       Privacy Policy
     </h1>
     <p style="color: gray; margin-bottom: 1rem">
-      Last updated: June 17, 2023
+      Last updated: December 30, 2023
     </p>
     <div>
       <p>
@@ -68,7 +68,7 @@ useHead({
           <p>
             <strong>Company</strong> (referred to as either &quot;the
             Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in
-            this Agreement) refers to amvstrm.
+            this Agreement) refers to Watch Anime.
           </p>
         </li>
         <li>
@@ -116,7 +116,7 @@ useHead({
         </li>
         <li>
           <p>
-            <strong>Website</strong> refers to amvstrm, accessible from
+            <strong>Website</strong> refers to Watch Anime, accessible from
             <a
               href="https://amvstr.ml"
               rel="external nofollow noopener"
@@ -493,7 +493,7 @@ useHead({
         If you have any questions about this Privacy Policy, You can contact us:
       </p>
       <ul>
-        <li>By email: admin@amvstr.ml</li>
+        <li>By Telegram: @crunchyroll_Co</li>
       </ul>
     </div>
   </v-container>
