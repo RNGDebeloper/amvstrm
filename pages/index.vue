@@ -1,10 +1,10 @@
 <script setup>
 useSeoMeta({
   ogTitle: "Home",
-  ogDescription: "amvstrm - A streaming service for weebo...",
+  ogDescription: "Watch-Anime - A streaming service for weebo...",
   ogUrl: useRoute().fullPath,
   twitterTitle: "Home",
-  twitterDescription: "amvstrm - A streaming service for weebo...",
+  twitterDescription: "Watch-Anime - A streaming service for weebo...",
   twitterCard: "summary",
 });
 
